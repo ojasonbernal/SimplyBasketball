@@ -5,9 +5,6 @@ container.setAttribute('class', 'container');
 
 app.appendChild(container);
 
-var request = new XMLHttpRequest();
-request.onload = function () {
-
   // Begin accessing JSON data here
   var data = JSON.parse(this.response);
   if (request.status >= 200 && request.status < 400) {

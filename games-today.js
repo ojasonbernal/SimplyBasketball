@@ -37,10 +37,10 @@ const request1 = new XMLHttpRequest();
 
 request1.withCredentials = true;
 
-
 const request2 = new XMLHttpRequest();
 	
 request2.withCredentials = true;
+
 
 request1.onload = function () {
 	

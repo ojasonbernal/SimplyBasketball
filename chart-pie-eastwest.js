@@ -12,6 +12,7 @@ const xhrr = new XMLHttpRequest();
   
   xhrr.withCredentials = true;
 
+
   xhrr.onload = function () {
     data = JSON.parse(this.response);
     if (xhr.status >= 200 && xhr.status < 400) {

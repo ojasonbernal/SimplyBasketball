@@ -11,6 +11,7 @@ const unTrendingTeamsXHR = new XMLHttpRequest();
 
 unTrendingTeamsXHR.withCredentials = true;
 
+
 var lastTenWins = {};
 
 unTrendingTeamsXHR.onload = function () {
