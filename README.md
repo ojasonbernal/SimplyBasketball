@@ -40,13 +40,13 @@ Whether you are a new or seasoned basketball fan, this website was created to co
 
 System Design
 
-<img src="img/systemdesign.png" width="50%" height="auto">
+<img src="img/systemdesign.png" width="75%" height="auto">
 
 User-Interface Design
 
-<img src="img/gameview.png" width="40%" height="auto">
+<img src="img/gameview.png" width="60%" height="auto">
 
-<img src="img/homepage.png" width="40%" height="auto">
+<img src="img/homepage.png" width="60%" height="auto">
 
 
 ## Usage
